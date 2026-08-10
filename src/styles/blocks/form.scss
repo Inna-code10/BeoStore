@@ -1,5 +1,7 @@
 .contact-us {
   width: 100%;
+  box-sizing: border-box;
+  
   padding-inline: 120px;
 
   @include constentPaddingInline;
