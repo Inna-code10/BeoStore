@@ -1,74 +1,56 @@
-BeoStore
+# BeoStore Landing Page
 
-BeoStore is a responsive landing page for a premium audio productsstore. The project presents recommended products, product categories,information about the brand, and a contact section. The layout isadapted for desktop, tablet, and mobile devices.
+BeoStore is a responsive landing page based on the Bang & Olufsen design.
 
-Live Preview
+The project was created using HTML, SCSS, BEM methodology, CSS Grid and Flexbox. The layout is fully responsive and adapted for mobile, tablet and desktop screens.
 
-https://inna-code10.github.io/BeoStore/
+## Demo
 
-Design Reference
+[Live Demo](https://inna-code10.github.io/BeoStore/)
 
-The project was implemented based on a Figma design provided as part ofthe Mate Academy course.
 
-Add the public Figma design link here if you have one.
+## Technologies Used
 
-Technologies Used
+- HTML
+- SCSS
+- BEM
+- CSS Grid
+- Flexbox
+- Parcel
 
-HTML5
+## Features
 
-SCSS / Sass
+- Responsive design for mobile, tablet, and desktop
+- Smooth navigation between page sections
+- Interactive hover effects
+- Responsive product and category layouts
+- Contact form
 
-BEM methodology
 
-Responsive Web Design
+## Design Reference
 
-CSS Grid
+[Figma Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=9lB1EiVXFYB5y3jm-0)
 
-Flexbox
+## Getting Started
 
-JavaScript
+Follow these steps to run the project locally.
 
-Gulp
+### 1. Clone the repository
 
-Git
-
-GitHub Pages
-
-Getting Started
-
-To run the project locally:
-
-Clone the repository:
-
+```bash
 git clone https://github.com/Inna-code10/BeoStore.git
 cd BeoStore
+```
 
-Install dependencies:
+### 2. Install dependencies
 
+```bash
 npm install
+```
 
-Run the project locally:
+### 3. Run the project locally
 
+```bash
 npm start
+```
 
-Features
-
-Responsive layout for mobile, tablet, and desktop
-
-Navigation menu with links to page sections
-
-Recommended products section
-
-Product categories section
-
-About Us section
-
-Contact form
-
-Interactive hover effects and transitions
-
-Mobile-friendly navigation
-
-Custom favicon
-
-Deployed with GitHub Pages
